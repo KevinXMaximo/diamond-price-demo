@@ -7,24 +7,27 @@ A simple demo showing how Python and pandas can be used to analyze data and buil
 ## How to Run This
 
 1. **Clone the repository**
+   ```bash
    git clone https://github.com/your-username/diamond-price-demo.git
    cd diamond-price-demo
+   ```
 
 2. **Install the requirements**
-    pip install -r requirements.txt
+   ```bash
+   pip install -r requirements.txt
+   ```
 
 3. **Open in VS Code**
-    code .
-note: Make sure to select a Python enviroment that supports Jupyter.
+   ```bash
+   code .
+   ```
+   **Note:** Make sure to select a Python environment that supports Jupyter.
 
 ---
 
-**Technologies Used**
+## Technologies Used
 
-    Python
-
-    pandas
-
-    scikit-learn
-
-    Jupyter Notebooks
+- Python  
+- pandas  
+- scikit-learn  
+- Jupyter Notebooks
